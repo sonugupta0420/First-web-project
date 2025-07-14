@@ -1,0 +1,22 @@
+.para{
+color: green;
+}
+
+#btn{
+text-align: center ;
+color: aliceblue;
+background-color: red;
+width: 150px;
+height: 25px;
+text-align: center;
+border-radius: 20px;
+
+
+}
+
+#btn:hover{
+    background-color: black;
+    border-style: outset;
+    
+}
+
